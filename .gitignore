@@ -120,6 +120,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_realesrgan/
 
 # Spyder project settings
 .spyderproject
